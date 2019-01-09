@@ -9,3 +9,7 @@ You can simply enter enter someone's phone number and the tool will make some fa
 - open your terminal
 - type "sudo chmod +x fakeCall.php"
 - type "php [name.php]", default should be "php fakeCall.php"
+
+## Tested On
+- Ubuntu 18.04.1 LTS (Bionic Beaver) 64-bit
+- Parrot Security Os Live 64-bit
